@@ -19,7 +19,7 @@ O **ATM na Praça** foi desenvolvido como parte do [Hackathon do GDG de Luanda](
 
 ## 🚀 Como Usar
 
-1. Baixe o aplicativo no [Google Play](link_para_o_google_play).
+1. Baixe o aplicativo, link brevemente.
 2. Abra o aplicativo no seu dispositivo Android.
 3. Utilize as opções de geração e leitura de QR Code conforme necessário.
 
@@ -38,5 +38,5 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-**Desenvolvido por [Seu Nome](https://github.com/seu-username).** 🌟
+**Desenvolvido por [Robotgames](https://github.com/seu-username).** 🌟
 
