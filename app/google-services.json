@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848395776850",
+    "project_id": "atm-reserve",
+    "storage_bucket": "atm-reserve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848395776850:android:51e06192b70ac41777408b",
+        "android_client_info": {
+          "package_name": "com.robotgames.atmdapraa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5bUhejVOPQJTZfblVtQY16s2OjUDj3Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848395776850:android:f1653a90f28cc53977408b",
+        "android_client_info": {
+          "package_name": "com.robotgames.atmreserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5bUhejVOPQJTZfblVtQY16s2OjUDj3Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
